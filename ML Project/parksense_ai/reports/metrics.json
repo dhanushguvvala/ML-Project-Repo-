@@ -1,0 +1,105 @@
+{
+  "selected_model": "rbf_svm_C10",
+  "train_spaces": 54048,
+  "train_images_excluded": [
+    "2012-10-30_13_42_15_jpg.rf.6696b6f4ccf67c337726240d13eb0122.jpg",
+    "2012-10-30_15_22_19_jpg.rf.7f5424948ffde63b0380a5e10e44ed68.jpg",
+    "2012-11-06_09_23_19_jpg.rf.fab276bcad313b031fdcaad781246e50.jpg",
+    "2012-11-06_09_28_19_jpg.rf.00e4dc9503811de36bbb410eb8332ff3.jpg",
+    "2012-11-06_09_43_20_jpg.rf.9160eec5c7c68b5bf53043128a456d21.jpg",
+    "2012-11-06_11_58_26_jpg.rf.47067e1cc8a413263dec87c2711e0427.jpg",
+    "2012-11-06_13_03_29_jpg.rf.dca02b77da847e8c0b6c3a05c28d0471.jpg",
+    "2012-11-06_13_13_30_jpg.rf.dcaedd3d1aa49f31816918e4dc49fdcc.jpg",
+    "2012-11-06_13_18_30_jpg.rf.2929a239d7cd1eb60effa38f5fb7f955.jpg",
+    "2012-11-06_13_38_31_jpg.rf.6ce7048255f84dc99bd9b9312ffa5da6.jpg",
+    "2012-11-06_14_53_34_jpg.rf.aa299dc253c97cc1c66e9d9463e77522.jpg",
+    "2012-11-06_14_58_35_jpg.rf.eebe2cf49b35d3dd8e0dcc59efb1fab2.jpg",
+    "2012-11-06_18_58_47_jpg.rf.f6dba349347af04cf6fe5030ef152d98.jpg",
+    "2012-11-07_08_44_23_jpg.rf.8b3ad8f4ac5107c427f40b6a156df570.jpg",
+    "2012-11-07_09_39_26_jpg.rf.1bb99c629e933ecbe3930e74d3f5c942.jpg",
+    "2012-11-07_10_19_28_jpg.rf.25c42638e5279e2cff5e124c6c8f0c96.jpg",
+    "2012-11-07_11_04_30_jpg.rf.6f96f68dc9fb902018b8cb0b52880bf2.jpg",
+    "2012-11-07_11_19_31_jpg.rf.e98337b3d2efba08639563275d7c0508.jpg",
+    "2012-11-07_11_34_32_jpg.rf.a3ca648fe44d4859708b318de7f441f5.jpg",
+    "2012-11-07_13_04_37_jpg.rf.dae874415ad59c7c024469496fc8cbb5.jpg",
+    "2012-11-07_13_29_38_jpg.rf.17eaec26b456186b31d8bed71bceafb9.jpg",
+    "2012-11-07_14_14_40_jpg.rf.0a94d3e0463296b7c9afb505349ae4b0.jpg",
+    "2012-11-07_14_49_42_jpg.rf.b90b74a4f6e07745c6d4a0a365244e1d.jpg",
+    "2012-11-07_18_49_53_jpg.rf.306b8cd2c9d9c6c19df1645f47e76bc2.jpg"
+  ],
+  "feature_dim": 1792,
+  "validation": {
+    "logreg": {
+      "accuracy": 0.9959,
+      "precision": 0.9942,
+      "recall": 0.9976,
+      "f1": 0.9959,
+      "fit_seconds": 4.3
+    },
+    "rbf_svm_C3": {
+      "accuracy": 0.9983,
+      "precision": 0.9979,
+      "recall": 0.9986,
+      "f1": 0.9983,
+      "fit_seconds": 22.8
+    },
+    "rbf_svm_C10": {
+      "accuracy": 0.9985,
+      "precision": 0.9983,
+      "recall": 0.9986,
+      "f1": 0.9985,
+      "fit_seconds": 23.1
+    }
+  },
+  "test_all_labels": {
+    "accuracy": 0.9632,
+    "precision": 0.9271,
+    "recall": 0.9988,
+    "f1": 0.9616,
+    "confusion_matrix": [
+      [
+        2785,
+        201
+      ],
+      [
+        3,
+        2555
+      ]
+    ],
+    "occupancy_count": {
+      "images": 99,
+      "mean_abs_count_error": 2.061,
+      "max_abs_count_error": 99,
+      "exact_count_images": 91,
+      "mean_spaces_per_image": 56.0
+    }
+  },
+  "test_clean": {
+    "accuracy": 0.9989,
+    "precision": 0.9988,
+    "recall": 0.9988,
+    "f1": 0.9988,
+    "excluded_images": [
+      "2012-11-06_18_38_46_jpg.rf.7c72e1eff68de7527ef8bd627eff250c.jpg",
+      "2012-11-07_19_39_55_jpg.rf.f1c4c9e1db2a8cf458127bf56118000e.jpg"
+    ],
+    "confusion_matrix": [
+      [
+        2785,
+        3
+      ],
+      [
+        3,
+        2553
+      ]
+    ],
+    "occupancy_count": {
+      "images": 97,
+      "mean_abs_count_error": 0.062,
+      "max_abs_count_error": 1,
+      "exact_count_images": 91,
+      "mean_spaces_per_image": 55.1
+    }
+  },
+  "inference_ms_per_space": 0.218
+}

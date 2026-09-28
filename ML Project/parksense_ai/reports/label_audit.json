@@ -1,0 +1,189 @@
+{
+  "train": [
+    {
+      "image": "2012-10-30_13_42_15_jpg.rf.6696b6f4ccf67c337726240d13eb0122.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 46,
+      "disagreement": 0.45
+    },
+    {
+      "image": "2012-10-30_15_22_19_jpg.rf.7f5424948ffde63b0380a5e10e44ed68.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 64,
+      "disagreement": 0.62
+    },
+    {
+      "image": "2012-11-06_09_23_19_jpg.rf.fab276bcad313b031fdcaad781246e50.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 94,
+      "disagreement": 0.93
+    },
+    {
+      "image": "2012-11-06_09_28_19_jpg.rf.00e4dc9503811de36bbb410eb8332ff3.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 95,
+      "disagreement": 0.94
+    },
+    {
+      "image": "2012-11-06_09_43_20_jpg.rf.9160eec5c7c68b5bf53043128a456d21.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 95,
+      "disagreement": 0.94
+    },
+    {
+      "image": "2012-11-06_11_58_26_jpg.rf.47067e1cc8a413263dec87c2711e0427.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 76,
+      "disagreement": 0.74
+    },
+    {
+      "image": "2012-11-06_13_03_29_jpg.rf.dca02b77da847e8c0b6c3a05c28d0471.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 48,
+      "disagreement": 0.47
+    },
+    {
+      "image": "2012-11-06_13_13_30_jpg.rf.dcaedd3d1aa49f31816918e4dc49fdcc.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 50,
+      "disagreement": 0.48
+    },
+    {
+      "image": "2012-11-06_13_18_30_jpg.rf.2929a239d7cd1eb60effa38f5fb7f955.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 52,
+      "disagreement": 0.5
+    },
+    {
+      "image": "2012-11-06_13_38_31_jpg.rf.6ce7048255f84dc99bd9b9312ffa5da6.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 60,
+      "disagreement": 0.59
+    },
+    {
+      "image": "2012-11-06_14_53_34_jpg.rf.aa299dc253c97cc1c66e9d9463e77522.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 88,
+      "disagreement": 0.86
+    },
+    {
+      "image": "2012-11-06_14_58_35_jpg.rf.eebe2cf49b35d3dd8e0dcc59efb1fab2.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 90,
+      "disagreement": 0.88
+    },
+    {
+      "image": "2012-11-06_18_58_47_jpg.rf.f6dba349347af04cf6fe5030ef152d98.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 100,
+      "disagreement": 0.98
+    },
+    {
+      "image": "2012-11-07_08_44_23_jpg.rf.8b3ad8f4ac5107c427f40b6a156df570.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 91,
+      "disagreement": 0.9
+    },
+    {
+      "image": "2012-11-07_09_39_26_jpg.rf.1bb99c629e933ecbe3930e74d3f5c942.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 94,
+      "disagreement": 0.92
+    },
+    {
+      "image": "2012-11-07_10_19_28_jpg.rf.25c42638e5279e2cff5e124c6c8f0c96.jpg",
+      "spaces": 100,
+      "label_occupied": 3,
+      "cv_predicted_occupied": 96,
+      "disagreement": 0.93
+    },
+    {
+      "image": "2012-11-07_11_04_30_jpg.rf.6f96f68dc9fb902018b8cb0b52880bf2.jpg",
+      "spaces": 100,
+      "label_occupied": 3,
+      "cv_predicted_occupied": 94,
+      "disagreement": 0.91
+    },
+    {
+      "image": "2012-11-07_11_19_31_jpg.rf.e98337b3d2efba08639563275d7c0508.jpg",
+      "spaces": 100,
+      "label_occupied": 3,
+      "cv_predicted_occupied": 82,
+      "disagreement": 0.79
+    },
+    {
+      "image": "2012-11-07_11_34_32_jpg.rf.a3ca648fe44d4859708b318de7f441f5.jpg",
+      "spaces": 100,
+      "label_occupied": 2,
+      "cv_predicted_occupied": 73,
+      "disagreement": 0.71
+    },
+    {
+      "image": "2012-11-07_13_04_37_jpg.rf.dae874415ad59c7c024469496fc8cbb5.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 43,
+      "disagreement": 0.42
+    },
+    {
+      "image": "2012-11-07_13_29_38_jpg.rf.17eaec26b456186b31d8bed71bceafb9.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 53,
+      "disagreement": 0.52
+    },
+    {
+      "image": "2012-11-07_14_14_40_jpg.rf.0a94d3e0463296b7c9afb505349ae4b0.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 75,
+      "disagreement": 0.74
+    },
+    {
+      "image": "2012-11-07_14_49_42_jpg.rf.b90b74a4f6e07745c6d4a0a365244e1d.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 79,
+      "disagreement": 0.78
+    },
+    {
+      "image": "2012-11-07_18_49_53_jpg.rf.306b8cd2c9d9c6c19df1645f47e76bc2.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 100,
+      "disagreement": 0.99
+    }
+  ],
+  "valid": [],
+  "test": [
+    {
+      "image": "2012-11-06_18_38_46_jpg.rf.7c72e1eff68de7527ef8bd627eff250c.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 100,
+      "disagreement": 0.99
+    },
+    {
+      "image": "2012-11-07_19_39_55_jpg.rf.f1c4c9e1db2a8cf458127bf56118000e.jpg",
+      "spaces": 100,
+      "label_occupied": 1,
+      "cv_predicted_occupied": 99,
+      "disagreement": 0.98
+    }
+  ]
+}
